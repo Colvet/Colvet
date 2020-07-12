@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<center>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kkop879879@gmail.com)
+![Notion Bade](https://img.shields.io/badge/Notion-000000?style-flat-square&logo=Notion&logocolor=white&link=https://www.notion.so/SHINHAK-KIM-434349e194c348629e26ce1afb68e672)
+</center>
+
+
